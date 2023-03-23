@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(215, 233, 235);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    border-color: grey;
+    
+}
+img{
+    height: 160px;
+    border-radius: 100%;
+}
+h1{
+    color: #338989;
+}
+h2{
+    color: #338989;
+}
+h3{
+    color: #338989;
+}
+
+/*Class Selectors -> '.red' <h1 class= "red">  Multiple Names
+/*Tag Selector -> 'h1' <h1>                      
+/*Id Selector -> '#red' <h1 id = "red">    It is Unique
+/*Pseudo Class -> img:hover; 
